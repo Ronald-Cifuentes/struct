@@ -1,0 +1,11 @@
+rm-yt-ads
+├── test
+│   └── test.js
+├── bash
+│   └── test.js
+│   └── test2.js
+├── background.js
+├── manifest.json
+├── popup.html
+├── popup.js
+└── style.css
